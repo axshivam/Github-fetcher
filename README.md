@@ -9,5 +9,6 @@ See a live demo [here]().
 ![Login](https://github.com/Shiv-sharma-111/Github-fetcher/blob/master/Images/Main-Data.png)
 
 ### Setup
+* In the project directory rum ```npm install``` for installing node modules
 * In the project directory, run ```npm start```
 * Open [http://localhost:3000](https://localhost:300) to view it in the browser.
